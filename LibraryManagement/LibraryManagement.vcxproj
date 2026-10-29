@@ -130,6 +130,10 @@
   <ItemGroup>
     <ClInclude Include="include\AVLTree.h" />
     <ClInclude Include="include\Book.h" />
+    <ClInclude Include="include\Date.h" />
+    <ClInclude Include="include\Loan.h" />
+    <ClInclude Include="include\Reader.h" />
+    <ClInclude Include="include\Transaction.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\main.cpp" />
